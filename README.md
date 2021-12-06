@@ -1,11 +1,11 @@
 **Installation Steps**
 1. Download zip file and Unzip on your machine.
 2. Put the files/folder inside "c:/xampp/htdocs/".
-3. Database Configuration
-    Open http://localhost/phpmyadmin/
-    Create Database named todo_list.
-    Import database todo_list.sql from downloaded folder(/database)
-4. Go to your localhost http://localhost and open ToDo_List.
+3. Open http://localhost/phpmyadmin/.
+4. Create Database named todo_list.
+5. Import database todo_list.sql from downloaded folder(/database).
+6. Go to your localhost http://localhost and open ToDo_List.
+
 
 ![Screenshot (957)](https://user-images.githubusercontent.com/20321246/144804914-a17de56f-a6e0-47fe-8ec8-34e53bd0e62a.png)
 ![Screenshot (958)](https://user-images.githubusercontent.com/20321246/144805160-9ed81c43-cd98-4ae9-9c4b-cdfd004904b6.png)
